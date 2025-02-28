@@ -40,7 +40,7 @@ export default function LastChance() {
 				>
 					<h1 className='text-3xl font-bold text-red-600 mb-2'>Last Chance!</h1>
 					<p className='text-gray-600 mb-4'>
-						You've tried to say no 3 times 😔
+						You&apos;ve tried to say no 3 times 😔
 					</p>
 					<p className='text-xl font-semibold text-purple-700 mb-6'>
 						Are you absolutely sure?
@@ -51,7 +51,7 @@ export default function LastChance() {
 							onClick={handleFinalYes}
 							className='px-8 py-4 bg-gradient-to-r from-pink-500 to-purple-500 text-white font-bold rounded-lg shadow-lg transform transition-all duration-300 active:scale-95 text-xl animate-pulse'
 						>
-							Fine, I'll say Yes! ❤️
+							Fine, I&apos;ll say Yes! ❤️
 						</button>
 
 						<button

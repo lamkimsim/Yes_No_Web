@@ -83,9 +83,9 @@ export default function Congratulations() {
 						</div>
 
 						<p className='text-gray-600 italic mt-4'>
-							"Love is not about how many days, months, or years you have been
-							together. Love is about how much you love each other every single
-							day."
+							&quot;Love is not about how many days, months, or years you have
+							been together. Love is about how much you love each other every
+							single day.&quot;
 						</p>
 
 						<div className='mt-8'>
