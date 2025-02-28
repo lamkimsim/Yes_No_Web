@@ -402,7 +402,7 @@ export default function Home() {
 								</button>
 							</div>
 							<p className='text-sm text-pink-500 italic'>
-								Maybe it's time to say Yes? ❤️
+								Maybe it&apos;s time to say Yes? ❤️
 							</p>
 						</>
 					)}
