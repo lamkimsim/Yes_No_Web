@@ -52,7 +52,7 @@ export default function Congratulations() {
 	return (
 		<div className='min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-indigo-500 to-purple-600 p-4'>
 			<Head>
-				<title>Congratulations! 💕</title>
+				<title>Congratulations&#33; 💕</title>
 				<meta name='viewport' content='width=device-width, initial-scale=1' />
 				<link
 					href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap'
@@ -73,7 +73,8 @@ export default function Congratulations() {
 						</h1>
 
 						<p className='text-xl text-gray-700 mb-6'>
-							Congratulations! This is the beginning of something beautiful!
+							Congratulations&#33; This is the beginning of something
+							beautiful&#33;
 						</p>
 
 						<div className='py-4'>
@@ -99,7 +100,7 @@ export default function Congratulations() {
 					</div>
 
 					<div className='mt-4 text-white text-sm'>
-						<p>❤️ Now go plan that first date! ❤️</p>
+						<p>❤️ Now go plan that first date&#33; ❤️</p>
 					</div>
 				</div>
 			</main>

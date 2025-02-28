@@ -227,7 +227,7 @@ const Level2Buttons = ({ onRealNoClick, onYesClick }) => {
 			{/* Message if there are lots of Yes buttons */}
 			{yesButtons.length > 15 && (
 				<div className='absolute bottom-2 left-2 bg-white bg-opacity-80 px-3 py-1 rounded-lg text-xs text-pink-700 z-30'>
-					So many YES buttons! Keep looking for NO...
+					So many YES buttons&#33; Keep looking for NO...
 				</div>
 			)}
 
@@ -341,7 +341,7 @@ export default function Home() {
 
 					{level === 1 && (
 						<>
-							<p className='text-gray-600 mb-6'>Level 1: Easy Mode</p>
+							<p className='text-gray-600 mb-6'>Level 1&#58; Easy Mode</p>
 							<div className='relative h-80 mb-4 overflow-hidden'>
 								{/* The real Yes button in the center */}
 								<button
@@ -389,7 +389,7 @@ export default function Home() {
 								/>
 							</div>
 							<p className='text-sm text-gray-600 italic'>
-								Level 2: Finding No creates more Yes!
+								Level 2&#58; Finding No creates more Yes!
 							</p>
 						</>
 					)}
